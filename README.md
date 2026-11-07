@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.png" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
@@ -12,14 +13,14 @@
 
 <br />
 
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-A48CCB?style=for-the-badge&labelColor=F0EFF2" alt="Explore My Portfolio" /></a>
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-B6A3D0?style=for-the-badge&labelColor=F2F1F4" alt="Email Me" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=FFFFFF" alt="Explore My Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-FFFFFF?style=for-the-badge&labelColor=FFFFFF" alt="Email Me" /></a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-A48CCB?style=flat-square&labelColor=F5F4F7" alt="GPA 18.53/20" />
-<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-B7A3CF?style=flat-square&labelColor=F5F4F7" alt="IELTS 7.5/9" />
-<img src="https://img.shields.io/badge/Graduating-July%202027-A48CCB?style=flat-square&labelColor=F5F4F7" alt="Graduating July 2027" />
+<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="GPA 18.53/20" />
+<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="IELTS 7.5/9" />
+<img src="https://img.shields.io/badge/Graduating-July%202027-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Graduating July 2027" />
 
 </div>
 
@@ -45,7 +46,7 @@ I'm **Maral Esmikhani**, an Industrial Engineering undergraduate at **Shahid Beh
 
 An integrated fuzzy MCDM framework for evaluating sustainable solar technologies.
 
-<img src="https://img.shields.io/badge/STATUS-MANUSCRIPT%20UNDER%20REVIEW-A48CCB?style=flat-square&labelColor=F5F4F7" alt="Manuscript under review" />
+<img src="https://img.shields.io/badge/STATUS-MANUSCRIPT%20UNDER%20REVIEW-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Manuscript under review" />
 
 </td>
 <td width="50%" valign="top">
@@ -56,7 +57,7 @@ An integrated fuzzy MCDM framework for evaluating sustainable solar technologies
 
 Modeling interactions between solar PV systems and cryptocurrency-mining energy demand.
 
-<img src="https://img.shields.io/badge/STATUS-MODEL%20COMPLETE-B7A3CF?style=flat-square&labelColor=F5F4F7" alt="Model complete; simulations next" />
+<img src="https://img.shields.io/badge/STATUS-MODEL%20COMPLETE-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Model complete; simulations next" />
 
 </td>
 </tr>
@@ -66,11 +67,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Operations_Research-A48CCB?style=for-the-badge" alt="Operations Research" />
-<img src="https://img.shields.io/badge/MCDM-B7A3CF?style=for-the-badge" alt="MCDM" />
-<img src="https://img.shields.io/badge/Optimization-98969F?style=for-the-badge" alt="Optimization" />
-<img src="https://img.shields.io/badge/Decision_Support-A48CCB?style=for-the-badge" alt="Decision Support" />
-<img src="https://img.shields.io/badge/Data_Analytics-B7A3CF?style=for-the-badge" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Operations_Research-FFFFFF?style=for-the-badge" alt="Operations Research" />
+<img src="https://img.shields.io/badge/MCDM-FFFFFF?style=for-the-badge" alt="MCDM" />
+<img src="https://img.shields.io/badge/Optimization-FFFFFF?style=for-the-badge" alt="Optimization" />
+<img src="https://img.shields.io/badge/Decision_Support-FFFFFF?style=for-the-badge" alt="Decision Support" />
+<img src="https://img.shields.io/badge/Data_Analytics-FFFFFF?style=for-the-badge" alt="Data Analytics" />
 
 </div>
 
@@ -101,9 +102,9 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-B7A3CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/MaralSmi"><img src="https://img.shields.io/badge/GITHUB-85818C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/PORTFOLIO-A48CCB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=555555" alt="Email" /></a>
+<a href="https://github.com/MaralSmi"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=555555" alt="GitHub" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=githubpages&logoColor=555555" alt="Portfolio" /></a>
 
 <br />
 
