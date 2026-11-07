@@ -98,19 +98,7 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<table align="center">
-  <tr>
-    <td align="center" width="160" bgcolor="#000000">
-      <a href="mailto:maralesmikhani@gmail.com"><font color="#FFFFFF"><b>✉ EMAIL ME ↗</b></font></a>
-    </td>
-    <td align="center" width="160" bgcolor="#FFFFFF">
-      <a href="https://github.com/MaralSmi"><font color="#242424"><b>GITHUB ↗</b></font></a>
-    </td>
-    <td align="center" width="160" bgcolor="#FFFFFF">
-      <a href="https://maralsmi.github.io/MaralSmi/"><font color="#242424"><b>PORTFOLIO ↗</b></font></a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME_↗-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me ↗" /></a>
 
 <br />
 
