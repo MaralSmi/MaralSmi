@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Maral Esmikhani — Decision Science and Optimization">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FDFBFF"/><stop offset=".53" stop-color="#E9E2FC"/><stop offset="1" stop-color="#D3C7F2"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g stroke="#9990CF" stroke-width="2" fill="none" opacity=".5"><path d="M850 65 955 122 1050 55 1130 142 1030 235 920 205 850 65 1030 235 955 122 920 205"/></g>
+<g fill="#6963AD"><circle cx="850" cy="65" r="7"/><circle cx="955" cy="122" r="9"/><circle cx="1050" cy="55" r="6"/><circle cx="1130" cy="142" r="8"/><circle cx="1030" cy="235" r="10"/><circle cx="920" cy="205" r="6"/></g>
+<text x="75" y="136" font-family="Arial,sans-serif" font-weight="bold" font-size="64" fill="#171923">Maral Esmikhani</text>
+<text x="79" y="188" font-family="Arial,sans-serif" font-size="26" fill="#565084">Industrial Engineering · Research &amp; Analytics</text>
+<text x="80" y="232" font-family="Arial,sans-serif" font-size="18" fill="#6963AD" letter-spacing="2">DECISION SCIENCE  /  OPTIMIZATION  /  SUSTAINABILITY</text>
+</svg>
