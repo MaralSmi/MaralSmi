@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./banner.png" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
@@ -13,14 +12,14 @@
 
 <br />
 
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=FFFFFF" alt="Explore My Portfolio" /></a>
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-FFFFFF?style=for-the-badge&labelColor=FFFFFF" alt="Email Me" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./assets/badges/explore-portfolio.svg" alt="Explore My Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./assets/badges/lets-connect.svg" alt="Let's Connect" /></a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="GPA 18.53/20" />
-<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="IELTS 7.5/9" />
-<img src="https://img.shields.io/badge/Graduating-July%202027-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Graduating July 2027" />
+<img src="./assets/badges/gpa.svg" alt="GPA 18.53/20" />
+<img src="./assets/badges/ielts.svg" alt="IELTS 7.5/9" />
+<img src="./assets/badges/graduating.svg" alt="Graduating July 2027" />
 
 </div>
 
@@ -46,7 +45,7 @@ I'm **Maral Esmikhani**, an Industrial Engineering undergraduate at **Shahid Beh
 
 An integrated fuzzy MCDM framework for evaluating sustainable solar technologies.
 
-<img src="https://img.shields.io/badge/STATUS-MANUSCRIPT%20UNDER%20REVIEW-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Manuscript under review" />
+<img src="./assets/badges/manuscript-review.svg" alt="Manuscript under review" />
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +56,7 @@ An integrated fuzzy MCDM framework for evaluating sustainable solar technologies
 
 Modeling interactions between solar PV systems and cryptocurrency-mining energy demand.
 
-<img src="https://img.shields.io/badge/STATUS-MODEL%20COMPLETE-FFFFFF?style=flat-square&labelColor=FFFFFF" alt="Model complete; simulations next" />
+<img src="./assets/badges/model-complete.svg" alt="Model complete; simulations next" />
 
 </td>
 </tr>
@@ -67,11 +66,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Operations_Research-FFFFFF?style=for-the-badge" alt="Operations Research" />
-<img src="https://img.shields.io/badge/MCDM-FFFFFF?style=for-the-badge" alt="MCDM" />
-<img src="https://img.shields.io/badge/Optimization-FFFFFF?style=for-the-badge" alt="Optimization" />
-<img src="https://img.shields.io/badge/Decision_Support-FFFFFF?style=for-the-badge" alt="Decision Support" />
-<img src="https://img.shields.io/badge/Data_Analytics-FFFFFF?style=for-the-badge" alt="Data Analytics" />
+<img src="./assets/badges/operations-research.svg" alt="Operations Research" />
+<img src="./assets/badges/mcdm.svg" alt="MCDM" />
+<img src="./assets/badges/optimization.svg" alt="Optimization" />
+<img src="./assets/badges/decision-support.svg" alt="Decision Support" />
+<img src="./assets/badges/data-analytics.svg" alt="Data Analytics" />
 
 </div>
 
@@ -102,9 +101,9 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FFFFFF?style=for-the-badge&logo=gmail&logoColor=555555" alt="Email" /></a>
-<a href="https://github.com/MaralSmi"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=555555" alt="GitHub" /></a>
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=githubpages&logoColor=555555" alt="Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./assets/badges/email-me.svg" alt="Email Me" /></a>
+<a href="https://github.com/MaralSmi"><img src="./assets/badges/github.svg" alt="GitHub" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
 
 <br />
 
