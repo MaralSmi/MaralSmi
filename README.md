@@ -15,11 +15,6 @@
 <a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8062A9?style=for-the-badge" alt="Explore My Portfolio" /></a>
 <a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-8062A9?style=for-the-badge" alt="Email Me" /></a>
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-AD91D1?style=flat-square&labelColor=8062A9" alt="GPA 18.53/20" />
-<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-AD91D1?style=flat-square&labelColor=8062A9" alt="IELTS 7.5/9" />
-<img src="https://img.shields.io/badge/Graduating-July%202027-AD91D1?style=flat-square&labelColor=8062A9" alt="Graduating July 2027" />
 
 </div>
 
@@ -32,6 +27,12 @@ I'm **Maral Esmikhani**, an Industrial Engineering undergraduate at **Shahid Beh
 - 🎓 **Academic standing:** Top five in my cohort
 - 🔍 **Currently exploring:** Sustainable energy systems, optimization, and decision support
 - 💜 **What motivates me:** Finding elegant, practical solutions to meaningful problems
+
+## 🎓 Academic Highlights
+
+- 📚 **GPA:** 18.53 / 20
+- 🌍 **IELTS Academic:** 7.5 / 9
+- 🎓 **Expected Graduation:** July 2027
 
 ## 🪻 My Research Palette
 
@@ -64,15 +65,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 ## ✨ Things I Love Working On
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Operations_Research-8062A9?style=for-the-badge" alt="Operations Research" />
-<img src="https://img.shields.io/badge/MCDM-AD91D1?style=for-the-badge" alt="MCDM" />
-<img src="https://img.shields.io/badge/Optimization-8062A9?style=for-the-badge" alt="Optimization" />
-<img src="https://img.shields.io/badge/Decision_Support-AD91D1?style=for-the-badge" alt="Decision Support" />
-<img src="https://img.shields.io/badge/Data_Analytics-8062A9?style=for-the-badge" alt="Data Analytics" />
-
-</div>
+- 🔍 **Operations Research** — Exploring better ways to solve complex problems.
+- ⚖️ **Multi-Criteria Decision-Making (MCDM)** — Evaluating alternatives from multiple perspectives.
+- 🧩 **Optimization** — Finding efficient, practical solutions under constraints.
+- 🧭 **Decision Support** — Turning analytical insights into clearer choices.
+- 📊 **Data Analytics** — Discovering patterns and insights in data.
 
 ## 🧰 My Toolkit
 
