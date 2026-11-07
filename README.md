@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.png" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
@@ -12,14 +13,14 @@
 
 <br />
 
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="./assets/badges/explore-portfolio.svg" alt="Explore My Portfolio" /></a>
-<a href="mailto:maralesmikhani@gmail.com"><img src="./assets/badges/lets-connect.svg" alt="Let's Connect" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./explore-portfolio.svg" alt="Explore My Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./lets-connect.svg" alt="Let's Connect" /></a>
 
 <br /><br />
 
-<img src="./assets/badges/gpa.svg" alt="GPA 18.53/20" />
-<img src="./assets/badges/ielts.svg" alt="IELTS 7.5/9" />
-<img src="./assets/badges/graduating.svg" alt="Graduating July 2027" />
+<img src="./gpa.svg" alt="GPA 18.53/20" />
+<img src="./ielts.svg" alt="IELTS 7.5/9" />
+<img src="./graduating.svg" alt="Graduating July 2027" />
 
 </div>
 
@@ -45,7 +46,7 @@ I'm **Maral Esmikhani**, an Industrial Engineering undergraduate at **Shahid Beh
 
 An integrated fuzzy MCDM framework for evaluating sustainable solar technologies.
 
-<img src="./assets/badges/manuscript-review.svg" alt="Manuscript under review" />
+<img src="./manuscript-review.svg" alt="Manuscript under review" />
 
 </td>
 <td width="50%" valign="top">
@@ -56,7 +57,7 @@ An integrated fuzzy MCDM framework for evaluating sustainable solar technologies
 
 Modeling interactions between solar PV systems and cryptocurrency-mining energy demand.
 
-<img src="./assets/badges/model-complete.svg" alt="Model complete; simulations next" />
+<img src="./model-complete.svg" alt="Model complete; simulations next" />
 
 </td>
 </tr>
@@ -66,11 +67,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 <div align="center">
 
-<img src="./assets/badges/operations-research.svg" alt="Operations Research" />
-<img src="./assets/badges/mcdm.svg" alt="MCDM" />
-<img src="./assets/badges/optimization.svg" alt="Optimization" />
-<img src="./assets/badges/decision-support.svg" alt="Decision Support" />
-<img src="./assets/badges/data-analytics.svg" alt="Data Analytics" />
+<img src="./operations-research.svg" alt="Operations Research" />
+<img src="./mcdm.svg" alt="MCDM" />
+<img src="./optimization.svg" alt="Optimization" />
+<img src="./decision-support.svg" alt="Decision Support" />
+<img src="./data-analytics.svg" alt="Data Analytics" />
 
 </div>
 
@@ -101,9 +102,9 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<a href="mailto:maralesmikhani@gmail.com"><img src="./assets/badges/email-me.svg" alt="Email Me" /></a>
-<a href="https://github.com/MaralSmi"><img src="./assets/badges/github.svg" alt="GitHub" /></a>
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="./assets/badges/portfolio.svg" alt="Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./email-me.svg" alt="Email Me" /></a>
+<a href="https://github.com/MaralSmi"><img src="./github.svg" alt="GitHub" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./portfolio.svg" alt="Portfolio" /></a>
 
 <br />
 
