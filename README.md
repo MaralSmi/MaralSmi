@@ -12,14 +12,14 @@
 
 <br />
 
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/explore.svg" alt="Explore My Portfolio" height="34" /></a>
-<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/connect.svg" alt="Let's Connect" height="34" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/explore.png" alt="Explore My Portfolio" height="34" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/connect.png" alt="Let's Connect" height="34" /></a>
 
 <br /><br />
 
-<img src="./badges/gpa.svg" alt="GPA 18.53 / 20" height="34" />
-<img src="./badges/ielts.svg" alt="IELTS 7.5 / 9" height="34" />
-<img src="./badges/graduation.svg" alt="Graduating July 2027" height="34" />
+<img src="./badges/gpa.png" alt="GPA 18.53 / 20" height="34" />
+<img src="./badges/ielts.png" alt="IELTS 7.5 / 9" height="34" />
+<img src="./badges/graduation.png" alt="Graduating July 2027" height="34" />
 
 </div>
 
@@ -66,11 +66,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 <div align="center">
 
-<img src="./badges/operations.svg" alt="Operations Research" height="34" />
-<img src="./badges/mcdm.svg" alt="MCDM" height="34" />
-<img src="./badges/optimization.svg" alt="Optimization" height="34" />
-<img src="./badges/decision.svg" alt="Decision Support" height="34" />
-<img src="./badges/analytics.svg" alt="Data Analytics" height="34" />
+<img src="./badges/operations.png" alt="Operations Research" height="34" />
+<img src="./badges/mcdm.png" alt="MCDM" height="34" />
+<img src="./badges/optimization.png" alt="Optimization" height="34" />
+<img src="./badges/decision.png" alt="Decision Support" height="34" />
+<img src="./badges/analytics.png" alt="Data Analytics" height="34" />
 
 </div>
 
@@ -101,9 +101,9 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/email.svg" alt="Email Me" height="34" /></a>
-<a href="https://github.com/MaralSmi"><img src="./badges/github.svg" alt="GitHub" height="34" /></a>
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/portfolio.svg" alt="Portfolio" height="34" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/email.png" alt="Email Me" height="34" /></a>
+<a href="https://github.com/MaralSmi"><img src="./badges/github.png" alt="GitHub" height="34" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/portfolio.png" alt="Portfolio" height="34" /></a>
 
 <br />
 
