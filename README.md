@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
+<img src="./banner.gif" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
 
 <br />
 
@@ -12,14 +12,14 @@
 
 <br />
 
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-A48CCB?style=for-the-badge&labelColor=F0EFF2" alt="Explore My Portfolio" /></a>
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-B6A3D0?style=for-the-badge&labelColor=F2F1F4" alt="Email Me" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/explore.svg" alt="Explore My Portfolio" height="34" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/connect.svg" alt="Let's Connect" height="34" /></a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-A48CCB?style=flat-square&labelColor=F5F4F7" alt="GPA 18.53/20" />
-<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-B7A3CF?style=flat-square&labelColor=F5F4F7" alt="IELTS 7.5/9" />
-<img src="https://img.shields.io/badge/Graduating-July%202027-A48CCB?style=flat-square&labelColor=F5F4F7" alt="Graduating July 2027" />
+<img src="./badges/gpa.svg" alt="GPA 18.53 / 20" height="34" />
+<img src="./badges/ielts.svg" alt="IELTS 7.5 / 9" height="34" />
+<img src="./badges/graduation.svg" alt="Graduating July 2027" height="34" />
 
 </div>
 
@@ -66,11 +66,11 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Operations_Research-A48CCB?style=for-the-badge" alt="Operations Research" />
-<img src="https://img.shields.io/badge/MCDM-B7A3CF?style=for-the-badge" alt="MCDM" />
-<img src="https://img.shields.io/badge/Optimization-98969F?style=for-the-badge" alt="Optimization" />
-<img src="https://img.shields.io/badge/Decision_Support-A48CCB?style=for-the-badge" alt="Decision Support" />
-<img src="https://img.shields.io/badge/Data_Analytics-B7A3CF?style=for-the-badge" alt="Data Analytics" />
+<img src="./badges/operations.svg" alt="Operations Research" height="34" />
+<img src="./badges/mcdm.svg" alt="MCDM" height="34" />
+<img src="./badges/optimization.svg" alt="Optimization" height="34" />
+<img src="./badges/decision.svg" alt="Decision Support" height="34" />
+<img src="./badges/analytics.svg" alt="Data Analytics" height="34" />
 
 </div>
 
@@ -101,9 +101,9 @@ Modeling interactions between solar PV systems and cryptocurrency-mining energy 
 
 I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
 
-<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-B7A3CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/MaralSmi"><img src="https://img.shields.io/badge/GITHUB-85818C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/PORTFOLIO-A48CCB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="./badges/email.svg" alt="Email Me" height="34" /></a>
+<a href="https://github.com/MaralSmi"><img src="./badges/github.svg" alt="GitHub" height="34" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="./badges/portfolio.svg" alt="Portfolio" height="34" /></a>
 
 <br />
 
