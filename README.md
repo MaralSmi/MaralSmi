@@ -1,46 +1,112 @@
 <div align="center">
 
-# Maral Esmikhani
+<img src="./banner.png" alt="Maral Esmikhani | Industrial Engineering & Decision Science" width="100%" />
 
-### Industrial Engineering Undergraduate · Aspiring Researcher
+<br />
 
-**Decision Science · Operations Research · Optimization · Sustainable Systems**
+### ✦ Hello, I'm Maral! ✦
 
-![Profile banner](./banner.svg)
+**Industrial Engineering Undergraduate** · **Decision Science** · **Optimization**
 
-[![Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-6963AD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/MaralSmi/MaralSmi)
+*Making complex decisions clearer through models, data, and curiosity.*
+
+<br />
+
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-7C63B6?style=for-the-badge&labelColor=4B3C73" alt="Explore My Portfolio" /></a>
+<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/✉_LET'S_CONNECT-D78DB5?style=for-the-badge&labelColor=6D507C" alt="Email Me" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/GPA-18.53%20%2F%2020-8268B5?style=flat-square&labelColor=F0E9FC" alt="GPA 18.53/20" />
+<img src="https://img.shields.io/badge/IELTS-7.5%20%2F%209-C17AA8?style=flat-square&labelColor=FBEAF3" alt="IELTS 7.5/9" />
+<img src="https://img.shields.io/badge/Graduating-July%202027-6783B3?style=flat-square&labelColor=E9F0FF" alt="Graduating July 2027" />
 
 </div>
 
-## About me
+---
 
-I'm an Industrial Engineering undergraduate at **Shahid Beheshti University**, interested in translating complex problems into structured, evidence-based decisions. My academic interests span **multi-criteria decision-making, operations research, decision support systems, and project planning**.
+## 🌷 A Little About Me
 
-- **GPA:** 18.53/20 (approximately 3.83/4.0)
-- **Cohort standing:** Top five in my cohort
-- **English:** IELTS Academic 7.5/9
+I'm **Maral Esmikhani**, an Industrial Engineering undergraduate at **Shahid Beheshti University, Tehran**. I'm passionate about translating complex real-world challenges into **thoughtful, data-driven decisions**—especially through operations research, multi-criteria decision-making, and analytical modeling.
 
-## Research interests
+- 🎓 **Academic standing:** Top five in my cohort
+- 🔍 **Currently exploring:** Sustainable energy systems, optimization, and decision support
+- 💜 **What motivates me:** Finding elegant, practical solutions to meaningful problems
 
-`Multi-Criteria Decision-Making` · `Operations Research & Optimization` · `Decision Support Systems` · `Project Management & Planning`
+## 🪻 My Research Palette
 
-## Research & ongoing work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Sustainable solar technology selection** — Developing a hybrid fuzzy MCGDM framework integrating Entropy, DEMATEL, and COPRAS.
+### ☀️ Sustainable Solar Decisions
 
-**Solar PV systems and cryptocurrency mining loads** — Building a system dynamics approach to techno-economic assessment using Vensim.
+**Fuzzy Entropy · DEMATEL · COPRAS**
 
-## Technical toolkit
+An integrated fuzzy MCDM framework for evaluating sustainable solar technologies.
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `Excel` · `Power BI` · `GAMS` · `Vensim` · `Microsoft Project`
+<img src="https://img.shields.io/badge/STATUS-MANUSCRIPT%20UNDER%20REVIEW-8C71BC?style=flat-square&labelColor=EDE5FA" alt="Manuscript under review" />
 
-## Selected projects
+</td>
+<td width="50%" valign="top">
 
-Explore my public repositories below for optimization, decision modeling, analytics, and project-planning work.
+### ⚡ Solar PV & Dynamic Systems
 
-## Connect
+**System Dynamics · Vensim · Techno-economics**
 
-[![Email](https://img.shields.io/badge/Email-171923?style=flat-square&logo=gmail&logoColor=white)](mailto:maralesmikhani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171923?style=flat-square&logo=github&logoColor=white)](https://github.com/MaralSmi)
+Modeling interactions between solar PV systems and cryptocurrency-mining energy demand.
 
-<!-- Replace the Portfolio badge link above with your public website URL once deployed. -->
+<img src="https://img.shields.io/badge/STATUS-MODEL%20COMPLETE-C47FA9?style=flat-square&labelColor=F9E8F2" alt="Model complete; simulations next" />
+
+</td>
+</tr>
+</table>
+
+## ✨ Things I Love Working On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Operations_Research-8067B7?style=for-the-badge" alt="Operations Research" />
+<img src="https://img.shields.io/badge/MCDM-C787B5?style=for-the-badge" alt="MCDM" />
+<img src="https://img.shields.io/badge/Optimization-6684B6?style=for-the-badge" alt="Optimization" />
+<img src="https://img.shields.io/badge/Decision_Support-9A80C8?style=for-the-badge" alt="Decision Support" />
+<img src="https://img.shields.io/badge/Data_Analytics-BA86A8?style=for-the-badge" alt="Data Analytics" />
+
+</div>
+
+## 🧰 My Toolkit
+
+| Area | Tools & Methods |
+|:--|:--|
+| **Programming & Data** | `Python` · `pandas` · `NumPy` · `scikit-learn` |
+| **Business Intelligence** | `Excel` · `Power BI` |
+| **Modeling & Optimization** | `GAMS` · `Vensim` · `MCDM` |
+| **Planning & Control** | `Microsoft Project` · Scheduling & Project Planning |
+
+## 🌸 Selected Projects
+
+| Project | What I Explored |
+|:--|:--|
+| 🥫 **Food Bank Distribution Network** | Facility location & network optimization |
+| 📍 **Highway Restaurant Site Selection** | Fuzzy AHP–TOPSIS |
+| 🫀 **Heart Disease Prediction** | Machine learning & model comparison |
+| 📊 **US Retail Performance Dashboard** | Sales analytics & Power BI |
+| 🏗️ **Construction Project Planning** | Scheduling & project control |
+
+---
+
+<div align="center">
+
+### 💌 Let's Make Something Meaningful
+
+I'm always happy to connect about **research, academic collaborations, and interesting analytical problems**.
+
+<a href="mailto:maralesmikhani@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-D18FB8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/MaralSmi"><img src="https://img.shields.io/badge/GITHUB-55416F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://maralsmi.github.io/MaralSmi/"><img src="https://img.shields.io/badge/PORTFOLIO-8D79C3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+
+<br />
+
+*✦ Turning complex problems into structured, data-driven decisions. ✦*
+
+</div>
